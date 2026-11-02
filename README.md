@@ -6,7 +6,7 @@ Game Backlog Selector
 
 An app where you can put in all the games on your backlog, and it will randomly choose a game for you to play from that list, potentially with filters if you have a specific preference for genre
 
-![System diagram](Flowchart.png)
+![System diagram](docs/Flowchart.png)
 
 ## Tech Stack
 
